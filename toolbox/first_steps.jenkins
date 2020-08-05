@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #!groovy
 // Check ub1 properties
 properties([disableConcurrentBuilds()])
