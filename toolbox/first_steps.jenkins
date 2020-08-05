@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!groovy
 // Check ub1 properties
 properties([disableConcurrentBuilds()])
@@ -23,3 +24,6 @@ pipeline {
         }
     }
 }
+=======
+
+>>>>>>> 6b6ab733e7ab6566744bb26bba5c75df4d87f391
